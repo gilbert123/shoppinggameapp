@@ -1,0 +1,8 @@
+D:\Stef\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.exe.config
+D:\Stef\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.exe
+D:\Stef\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.pdb
+D:\Stef\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csproj.AssemblyReference.cache
+D:\Stef\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csproj.SuggestedBindingRedirects.cache
+D:\Stef\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\Stef\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.exe
+D:\Stef\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.pdb
